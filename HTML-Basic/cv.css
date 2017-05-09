@@ -1,0 +1,28 @@
+body{
+  font-family: sans-serif;
+}
+
+h2{
+    background:#5599DD;
+    color:#DDDDDD;
+    padding: 5px;
+}
+
+.exps{
+  text-indent: 50px;
+}
+
+#email{
+  text-decoration: underline;
+  font-style: italic;
+}
+
+#conteudo{
+  width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#cabecalho{
+  text-align: center;
+}
